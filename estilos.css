@@ -71,7 +71,6 @@ header #logo img
 nav
 {
 	background: #80BCA3;
-	box-shadow:rgba(0,0,0,0.5) 0px 2px 10px;
 	padding: 0 0.5em;
 	position: relative;
 }
@@ -168,12 +167,12 @@ nav ul li a
 {
 	background: white;
 	border-radius: 0 0 0.5em 0;
-	left: 2%;
+	left: 5%;
 	margin-top: 3px;
 	padding: 0.2em 0.5em;
 	position: absolute;
 	top:100%;
-	width: 95%;
+	width: 90%;
 
 }
 #contenido .item .votacion .comentarios_item,
